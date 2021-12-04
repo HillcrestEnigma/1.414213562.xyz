@@ -1,0 +1,8 @@
+.sqrt2 {
+    white-space: nowrap;
+}
+
+#calc {
+    overflow-wrap: break-word;
+    white-space: normal;
+}
